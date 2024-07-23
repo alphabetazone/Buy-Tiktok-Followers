@@ -1,0 +1,83 @@
+alphabeta-social-marketing-agency/
+├── README.md
+├── LICENSE
+├── src/
+│   ├── instagram/
+│   │   ├── followers.md
+│   │   ├── likes.md
+│   │   └── comments.md
+│   ├── youtube/
+│   │   ├── views.md
+│   │   ├── subscribers.md
+│   │   └── comments.md
+│   ├── spotify/
+│   │   ├── plays.md
+│   │   ├── followers.md
+│   │   └── promotion.md
+│   ├── twitter/
+│   │   ├── followers.md
+│   │   ├── retweets.md
+│   │   └── likes.md
+│   ├── facebook/
+│   │   ├── page_likes.md
+│   │   ├── post_likes.md
+│   │   └── video_views.md
+│   └── reviews/
+│       ├── udemy.md
+│       ├── google.md
+│       ├── yelp.md
+│       └── trustpilot.md
+├── docs/
+│   ├── API.md
+│   ├── CONTRIBUTING.md
+│   └── CODE_OF_CONDUCT.md
+└── .gitignore
+
+AlphaBetaZone - Social Marketing Agency
+
+AlphaBetaZone is your go-to solution for enhancing your online presence. We offer a wide range of services including social media followers, likes, and comprehensive promotional strategies for platforms like Instagram, YouTube, Spotify, Twitter, Facebook, and more. We also provide authentic reviews for platforms such as Udemy, Google, Yelp, and Trustpilot.
+
+Services
+
+Instagram
+- Followers
+- Likes
+- Comments
+
+YouTube
+- Views
+- Subscribers
+- Comments
+
+Spotify
+- Plays
+- Followers
+- Promotion
+
+Twitter
+- Followers
+- Retweets
+- Likes
+
+Facebook
+- Page Likes
+- Post Likes
+- Video Views
+
+Reviews
+- Udemy
+- Google
+- Yelp
+- Trustpilot
+
+Getting Started
+
+To get started with our services, check out the documentation in the `docs/` folder.
+
+Contributing
+
+We welcome contributions! Please see `docs/CONTRIBUTING.md` for more details.
+
+License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
